@@ -10,7 +10,8 @@
   "author": "Lodgify QA Team",
   "license": "MIT",
   "devDependencies": {
-    "cypress": "^9.0.0"
+    "cypress": "^9.0.0",
+    "@faker-js/faker": "^6.0.0-alpha.7"
   },
   "scripts": {
     "dev-server": "node server/server.js",
